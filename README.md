@@ -1,4 +1,4 @@
-# FreeCodeCamp-Personal-Portfolio
+# freeCodeCamp-personal-portfolio
 To build a personal portfolio webpage for FreeCodeCamp's Responsive Web Design Projects
 
 ## Requirements
